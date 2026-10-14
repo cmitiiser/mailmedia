@@ -1,0 +1,82 @@
+name: Auto-Index Club Logos
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - 'ClubLogos/**'
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate ClubLogos index.json
+        run: |
+          node -e '
+            const fs = require("fs");
+            const path = require("path");
+
+            const targetDir = "./ClubLogos";
+            if (!fs.existsSync(targetDir)) process.exit(0);
+
+            const files = fs.readdirSync(targetDir).filter(f => {
+              const lower = f.toLowerCase();
+              return !lower.endsWith(".json") && !f.startsWith(".") && (
+                lower.endsWith(".svg") ||
+                lower.endsWith(".png") ||
+                lower.endsWith(".jpg") ||
+                lower.endsWith(".jpeg") ||
+                lower.endsWith(".webp") ||
+                lower.endsWith(".pdf")
+              );
+            });
+
+            const repoOwner = "cmitiiser";
+            const repoName = "mailmedia";
+            const branch = "main";
+            const rawBase = `https://raw.githubusercontent.com/${repoOwner}/${repoName}/${branch}/ClubLogos`;
+
+            const clubs = {};
+
+            files.forEach(file => {
+              const ext = path.extname(file).replace(".", "").toLowerCase();
+              const baseName = path.basename(file, path.extname(file));
+
+              // Clean display name: "astronomy-club" or "astronomy_club" -> "Astronomy Club"
+              const cleanTitle = baseName
+                .replace(/[-_]/g, " ")
+                .replace(/\b\w/g, char => char.toUpperCase());
+
+              if (!clubs[baseName]) {
+                clubs[baseName] = {
+                  id: baseName,
+                  name: cleanTitle,
+                  files: {}
+                };
+              }
+              // Direct raw download/embed link
+              clubs[baseName].files[ext] = `${rawBase}/${encodeURIComponent(file)}`;
+            });
+
+            // Alphabetize clubs by name
+            const result = Object.values(clubs).sort((a, b) => a.name.localeCompare(b.name));
+
+            const outPath = path.join(targetDir, "index.json");
+            fs.writeFileSync(outPath, JSON.stringify(result, null, 2));
+            console.log("Successfully generated " + outPath + " with " + result.length + " clubs.");
+          '
+
+      - name: Commit and Push Index
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add ClubLogos/index.json
+          git diff --staged --quiet || (git commit -m "chore: update ClubLogos index.json [skip ci]" && git push)
