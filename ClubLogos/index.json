@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "id": "CMIT",
+    "name": "CMIT",
+    "files": {
+      "png": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CMIT/logo_transparent.png",
+      "svg": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CMIT/logo_abs_title.svg",
+      "webp": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CMIT/logo_rounded.webp"
+    }
+  },
+  {
+    "id": "COMPASS",
+    "name": "COMPASS",
+    "files": {
+      "jpg": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/COMPASS/Compass_logo.jpg"
+    }
+  },
+  {
+    "id": "CSIT",
+    "name": "CSIT",
+    "files": {
+      "png": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CSIT/CSIT%20logo.png"
+    }
+  },
+  {
+    "id": "ESI",
+    "name": "ESI",
+    "files": {
+      "png": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/ESI/ESIVarLogoNew%20(1).png"
+    }
+  },
+  {
+    "id": "Exhibit A",
+    "name": "Exhibit A",
+    "files": {
+      "png": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/Exhibit_A_nobg_black.png"
+    }
+  },
+  {
+    "id": "IISERTvm",
+    "name": "IISERTvm",
+    "files": {
+      "png": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/IISERTvm/iisertvm_half_mono_white.png",
+      "svg": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/IISERTvm/iisertvm_half_mono.svg"
+    }
+  },
+  {
+    "id": "Parsec",
+    "name": "Parsec",
+    "files": {
+      "png": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Parsec/Parsec.png",
+      "jpg": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Parsec/Parsec_Logo_Full_WhiteBG.jpg"
+    }
+  },
+  {
+    "id": "Proteus",
+    "name": "Proteus",
+    "files": {
+      "png": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/Proteus_Logo_black.png"
+    }
+  },
+  {
+    "id": "PSI(t)",
+    "name": "PSI(T)",
+    "files": {
+      "png": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/PSI(t)%20White%20background%20logo.png"
+    }
+  },
+  {
+    "id": "QSI",
+    "name": "QSI",
+    "files": {
+      "png": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/QSI%20logo.png"
+    }
+  },
+  {
+    "id": "SNT",
+    "name": "SNT",
+    "files": {
+      "png": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/SNT_Logo.png"
+    }
+  }
+]
