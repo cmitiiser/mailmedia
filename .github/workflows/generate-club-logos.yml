@@ -30,9 +30,8 @@ jobs:
             }
 
             const allEntries = fs.readdirSync(targetDir, { recursive: true });
-            
             const validExts = [".svg", ".png", ".jpg", ".jpeg", ".webp", ".pdf"];
-            
+
             const files = allEntries.filter(entry => {
               const fullPath = path.join(targetDir, entry);
               if (fs.statSync(fullPath).isDirectory()) return false;
@@ -52,27 +51,57 @@ jobs:
             files.forEach(relPath => {
               const normalizedPath = relPath.replace(/\\/g, "/");
               const ext = path.extname(normalizedPath).replace(".", "").toLowerCase();
-              
+              const filenameWithoutExt = path.basename(normalizedPath, path.extname(normalizedPath));
               const parts = normalizedPath.split("/");
-              let rawKey = parts.length > 1 ? parts[0] : path.basename(normalizedPath, path.extname(normalizedPath));
 
-              const cleanTitle = rawKey
+              let clubKey = "";
+              let variantLabel = "";
+
+              if (parts.length > 1) {
+                clubKey = parts[0];
+                variantLabel = filenameWithoutExt
+                  .replace(/[-_]/g, " ")
+                  .replace(/\b\w/g, c => c.toUpperCase());
+              } else {
+                const chunks = filenameWithoutExt.split(/[-_]/);
+                clubKey = chunks[0];
+                variantLabel = chunks.slice(1).join(" ") || "Default";
+                variantLabel = variantLabel.replace(/\b\w/g, c => c.toUpperCase());
+              }
+
+              const cleanTitle = clubKey
                 .replace(/[-_]/g, " ")
                 .replace(/\b\w/g, c => c.toUpperCase());
 
-              if (!clubs[rawKey]) {
-                clubs[rawKey] = {
-                  id: rawKey,
+              if (!clubs[clubKey]) {
+                clubs[clubKey] = {
+                  id: clubKey,
                   name: cleanTitle,
-                  files: {}
+                  formats: {}
                 };
               }
 
+              if (!clubs[clubKey].formats[ext]) {
+                clubs[clubKey].formats[ext] = [];
+              }
+
               const urlParts = normalizedPath.split("/").map(encodeURIComponent).join("/");
-              clubs[rawKey].files[ext] = `${rawBase}/${urlParts}`;
+              clubs[clubKey].formats[ext].push({
+                variant: variantLabel,
+                filename: path.basename(normalizedPath),
+                url: `${rawBase}/${urlParts}`
+              });
             });
 
-            const result = Object.values(clubs).sort((a, b) => a.name.localeCompare(b.name));
+            const result = Object.values(clubs)
+              .sort((a, b) => a.name.localeCompare(b.name))
+              .map(club => {
+                Object.keys(club.formats).forEach(ext => {
+                  club.formats[ext].sort((a, b) => a.variant.localeCompare(b.variant));
+                });
+                return club;
+              });
+
             const outPath = path.join(targetDir, "index.json");
             fs.writeFileSync(outPath, JSON.stringify(result, null, 2));
             console.log(`Successfully generated ${outPath} with ${result.length} clubs.`);
