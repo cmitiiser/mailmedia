@@ -119,12 +119,6 @@
     "formats": {
       "png": [
         {
-          "variant": "Exhibit A Nobg Black",
-          "filename": "Exhibit_A_nobg_black.png",
-          "size": "45KB",
-          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/Exhibit_A_nobg_black.png"
-        },
-        {
           "variant": "Round",
           "filename": "round.png",
           "size": "29KB",
