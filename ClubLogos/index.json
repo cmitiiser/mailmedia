@@ -249,11 +249,6 @@
     "formats": {
       "png": [
         {
-          "variant": "Copy Of QSI Logo",
-          "filename": "Copy of QSI logo.png",
-          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/Copy%20of%20QSI%20logo.png"
-        },
-        {
           "variant": "QSI Logo",
           "filename": "QSI logo.png",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/QSI%20logo.png"
