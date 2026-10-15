@@ -244,19 +244,6 @@
     }
   },
   {
-    "id": "QSI",
-    "name": "QSI",
-    "formats": {
-      "png": [
-        {
-          "variant": "QSI Logo",
-          "filename": "QSI logo.png",
-          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/QSI%20logo.png"
-        }
-      ]
-    }
-  },
-  {
     "id": "SNT",
     "name": "SNT",
     "formats": {
