@@ -294,18 +294,5 @@
         }
       ]
     }
-  },
-  {
-    "id": "SNT",
-    "name": "SNT",
-    "formats": {
-      "png": [
-        {
-          "variant": "SNT Logo",
-          "filename": "SNT_Logo.png",
-          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/SNT_Logo.png"
-        }
-      ]
-    }
   }
 ]
