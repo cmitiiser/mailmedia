@@ -244,6 +244,58 @@
     }
   },
   {
+    "id": "QSI",
+    "name": "QSI",
+    "formats": {
+      "png": [
+        {
+          "variant": "Original",
+          "filename": "original.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/original.png"
+        },
+        {
+          "variant": "Original 3x",
+          "filename": "original_3x.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/original_3x.png"
+        },
+        {
+          "variant": "Transparent",
+          "filename": "transparent.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/transparent.png"
+        },
+        {
+          "variant": "Transparent 3x",
+          "filename": "transparent_3x.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/transparent_3x.png"
+        }
+      ],
+      "svg": [
+        {
+          "variant": "Original",
+          "filename": "original.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/original.svg"
+        },
+        {
+          "variant": "Transparent",
+          "filename": "transparent.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/transparent.svg"
+        }
+      ],
+      "webp": [
+        {
+          "variant": "Original",
+          "filename": "original.webp",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/original.webp"
+        },
+        {
+          "variant": "Transparent",
+          "filename": "transparent.webp",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/transparent.webp"
+        }
+      ]
+    }
+  },
+  {
     "id": "SNT",
     "name": "SNT",
     "formats": {
