@@ -294,5 +294,77 @@
         }
       ]
     }
+  },
+  {
+    "id": "SNT",
+    "name": "SNT",
+    "formats": {
+      "png": [
+        {
+          "variant": "Round",
+          "filename": "round.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/round.png"
+        },
+        {
+          "variant": "Round 2x",
+          "filename": "round_2x.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/round_2x.png"
+        },
+        {
+          "variant": "Sq",
+          "filename": "sq.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq.png"
+        },
+        {
+          "variant": "Sq 2x",
+          "filename": "sq_2x.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq_2x.png"
+        },
+        {
+          "variant": "Sq Full",
+          "filename": "sq_full.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq_full.png"
+        },
+        {
+          "variant": "Sq Full 2x",
+          "filename": "sq_full_2x.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq_full_2x.png"
+        }
+      ],
+      "svg": [
+        {
+          "variant": "Round",
+          "filename": "round.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/round.svg"
+        },
+        {
+          "variant": "Sq",
+          "filename": "sq.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq.svg"
+        },
+        {
+          "variant": "Sq Full",
+          "filename": "sq_full.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq_full.svg"
+        }
+      ],
+      "webp": [
+        {
+          "variant": "Round",
+          "filename": "round.webp",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/round.webp"
+        },
+        {
+          "variant": "Sq",
+          "filename": "sq.webp",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq.webp"
+        },
+        {
+          "variant": "Sq Full",
+          "filename": "sq_full.webp",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq_full.webp"
+        }
+      ]
+    }
   }
 ]
