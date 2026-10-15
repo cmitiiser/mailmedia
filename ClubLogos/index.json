@@ -192,9 +192,53 @@
     "formats": {
       "png": [
         {
+          "variant": "Logo",
+          "filename": "logo.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/logo.png"
+        },
+        {
+          "variant": "Logo 2x",
+          "filename": "logo_2x.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/logo_2x.png"
+        },
+        {
+          "variant": "Logo Transparent",
+          "filename": "logo_transparent.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/logo_transparent.png"
+        },
+        {
           "variant": "PSI(T) White Background Logo",
           "filename": "PSI(t) White background logo.png",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/PSI(t)%20White%20background%20logo.png"
+        }
+      ],
+      "svg": [
+        {
+          "variant": "Full Psit Logo",
+          "filename": "full_psit_logo.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/full_psit_logo.svg"
+        },
+        {
+          "variant": "Half Psit Logo",
+          "filename": "half_psit_logo.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/half_psit_logo.svg"
+        },
+        {
+          "variant": "Long Psit Logo",
+          "filename": "long_psit_logo.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/long_psit_logo.svg"
+        },
+        {
+          "variant": "Text Psit Logo",
+          "filename": "text_psit_logo.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/text_psit_logo.svg"
+        }
+      ],
+      "webp": [
+        {
+          "variant": "Logo",
+          "filename": "logo.webp",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/logo.webp"
         }
       ]
     }
