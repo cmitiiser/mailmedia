@@ -319,10 +319,158 @@
     "formats": {
       "png": [
         {
+          "variant": "Black Transparent",
+          "filename": "black_transparent.png",
+          "size": "15KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/black_transparent.png"
+        },
+        {
+          "variant": "Black Transparent 2x",
+          "filename": "black_transparent_2x.png",
+          "size": "34KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/black_transparent_2x.png"
+        },
+        {
           "variant": "Proteus Logo Black",
           "filename": "Proteus_Logo_black.png",
           "size": "10KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/Proteus_Logo_black.png"
+        },
+        {
+          "variant": "Round",
+          "filename": "round.png",
+          "size": "31KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/round.png"
+        },
+        {
+          "variant": "Round 2x",
+          "filename": "round_2x.png",
+          "size": "71KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/round_2x.png"
+        },
+        {
+          "variant": "Round Inverted",
+          "filename": "round_inverted.png",
+          "size": "30KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/round_inverted.png"
+        },
+        {
+          "variant": "Round Inverted 2x",
+          "filename": "round_inverted_2x.png",
+          "size": "69KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/round_inverted_2x.png"
+        },
+        {
+          "variant": "Sq",
+          "filename": "sq.png",
+          "size": "21KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/sq.png"
+        },
+        {
+          "variant": "Sq 2x",
+          "filename": "sq_2x.png",
+          "size": "50KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/sq_2x.png"
+        },
+        {
+          "variant": "Sq Inverted",
+          "filename": "sq_inverted.png",
+          "size": "21KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/sq_inverted.png"
+        },
+        {
+          "variant": "Sq Inverted 2x",
+          "filename": "sq_inverted_2x.png",
+          "size": "49KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/sq_inverted_2x.png"
+        },
+        {
+          "variant": "White Transparent",
+          "filename": "white_transparent.png",
+          "size": "15KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/white_transparent.png"
+        },
+        {
+          "variant": "White Transparent 2x",
+          "filename": "white_transparent_2x.png",
+          "size": "32KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/white_transparent_2x.png"
+        }
+      ],
+      "svg": [
+        {
+          "variant": "Black Transparent",
+          "filename": "black_transparent.svg",
+          "size": null,
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/black_transparent.svg"
+        },
+        {
+          "variant": "Round",
+          "filename": "round.svg",
+          "size": null,
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/round.svg"
+        },
+        {
+          "variant": "Round Inverted",
+          "filename": "round_inverted.svg",
+          "size": null,
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/round_inverted.svg"
+        },
+        {
+          "variant": "Sq",
+          "filename": "sq.svg",
+          "size": null,
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/sq.svg"
+        },
+        {
+          "variant": "Sq Inverted",
+          "filename": "sq_inverted.svg",
+          "size": null,
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/sq_inverted.svg"
+        },
+        {
+          "variant": "White Transparent",
+          "filename": "white_transparent.svg",
+          "size": null,
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/white_transparent.svg"
+        }
+      ],
+      "webp": [
+        {
+          "variant": "Black Transparent",
+          "filename": "black_transparent.webp",
+          "size": "9KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/black_transparent.webp"
+        },
+        {
+          "variant": "Round",
+          "filename": "round.webp",
+          "size": "14KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/round.webp"
+        },
+        {
+          "variant": "Round Inverted",
+          "filename": "round_inverted.webp",
+          "size": "14KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/round_inverted.webp"
+        },
+        {
+          "variant": "Sq",
+          "filename": "sq.webp",
+          "size": "9KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/sq.webp"
+        },
+        {
+          "variant": "Sq Inverted",
+          "filename": "sq_inverted.webp",
+          "size": "9KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/sq_inverted.webp"
+        },
+        {
+          "variant": "White Transparent",
+          "filename": "white_transparent.webp",
+          "size": "9KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/white_transparent.webp"
         }
       ]
     }
