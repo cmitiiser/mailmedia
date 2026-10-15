@@ -7,21 +7,25 @@
         {
           "variant": "Logo",
           "filename": "logo.png",
+          "size": "84KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CMIT/logo.png"
         },
         {
           "variant": "Logo Circle",
           "filename": "logo_circle.png",
+          "size": "48KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CMIT/logo_circle.png"
         },
         {
           "variant": "Logo Rounded",
           "filename": "logo_rounded.png",
+          "size": "93KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CMIT/logo_rounded.png"
         },
         {
           "variant": "Logo Transparent",
           "filename": "logo_transparent.png",
+          "size": "29KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CMIT/logo_transparent.png"
         }
       ],
@@ -29,16 +33,19 @@
         {
           "variant": "Logo",
           "filename": "logo.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CMIT/logo.svg"
         },
         {
           "variant": "Logo Abs",
           "filename": "logo_abs.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CMIT/logo_abs.svg"
         },
         {
           "variant": "Logo Abs Title",
           "filename": "logo_abs_title.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CMIT/logo_abs_title.svg"
         }
       ],
@@ -46,16 +53,19 @@
         {
           "variant": "Logo",
           "filename": "logo.webp",
+          "size": "24KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CMIT/logo.webp"
         },
         {
           "variant": "Logo Circle",
           "filename": "logo_circle.webp",
+          "size": "28KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CMIT/logo_circle.webp"
         },
         {
           "variant": "Logo Rounded",
           "filename": "logo_rounded.webp",
+          "size": "26KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CMIT/logo_rounded.webp"
         }
       ]
@@ -69,6 +79,7 @@
         {
           "variant": "Compass Logo",
           "filename": "Compass_logo.jpg",
+          "size": "83KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/COMPASS/Compass_logo.jpg"
         }
       ]
@@ -82,6 +93,7 @@
         {
           "variant": "CSIT Logo",
           "filename": "CSIT logo.png",
+          "size": "430KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CSIT/CSIT%20logo.png"
         }
       ]
@@ -95,6 +107,7 @@
         {
           "variant": "ESIVarLogoNew (1)",
           "filename": "ESIVarLogoNew (1).png",
+          "size": "942KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/ESI/ESIVarLogoNew%20(1).png"
         }
       ]
@@ -108,56 +121,67 @@
         {
           "variant": "Exhibit A Nobg Black",
           "filename": "Exhibit_A_nobg_black.png",
+          "size": "45KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/Exhibit_A_nobg_black.png"
         },
         {
           "variant": "Round",
           "filename": "round.png",
+          "size": "29KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round.png"
         },
         {
           "variant": "Round 2x",
           "filename": "round_2x.png",
+          "size": "70KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round_2x.png"
         },
         {
           "variant": "Round Inverted",
           "filename": "round_inverted.png",
+          "size": "29KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round_inverted.png"
         },
         {
           "variant": "Round Inverted 2x",
           "filename": "round_inverted_2x.png",
+          "size": "68KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round_inverted_2x.png"
         },
         {
           "variant": "Square",
           "filename": "square.png",
+          "size": "19KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square.png"
         },
         {
           "variant": "Square 2x",
           "filename": "square_2x.png",
+          "size": "48KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square_2x.png"
         },
         {
           "variant": "Square Inverted",
           "filename": "square_inverted.png",
+          "size": "19KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square_inverted.png"
         },
         {
           "variant": "Square Inverted 2x",
           "filename": "square_inverted_2x.png",
+          "size": "48KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square_inverted_2x.png"
         },
         {
           "variant": "Squarecle",
           "filename": "squarecle.png",
+          "size": "24KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/squarecle.png"
         },
         {
           "variant": "Squarecle 2x",
           "filename": "squarecle_2x.png",
+          "size": "57KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/squarecle_2x.png"
         }
       ],
@@ -165,26 +189,31 @@
         {
           "variant": "Round",
           "filename": "round.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round.svg"
         },
         {
           "variant": "Round Inverted",
           "filename": "round_inverted.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round_inverted.svg"
         },
         {
           "variant": "Square",
           "filename": "square.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square.svg"
         },
         {
           "variant": "Square Inverted",
           "filename": "square_inverted.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square_inverted.svg"
         },
         {
           "variant": "Squarecle",
           "filename": "squarecle.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/squarecle.svg"
         }
       ],
@@ -192,26 +221,31 @@
         {
           "variant": "Round",
           "filename": "round.webp",
+          "size": "12KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round.webp"
         },
         {
           "variant": "Round Inverted",
           "filename": "round_inverted.webp",
+          "size": "12KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round_inverted.webp"
         },
         {
           "variant": "Square",
           "filename": "square.webp",
+          "size": "8KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square.webp"
         },
         {
           "variant": "Square Inverted",
           "filename": "square_inverted.webp",
+          "size": "8KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square_inverted.webp"
         },
         {
           "variant": "Squarecle",
           "filename": "squarecle.webp",
+          "size": "9KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/squarecle.webp"
         }
       ]
@@ -225,21 +259,25 @@
         {
           "variant": "Iisertvm",
           "filename": "iisertvm.png",
+          "size": "53KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/IISERTvm/iisertvm.png"
         },
         {
           "variant": "Iisertvm Half Mono Black",
           "filename": "iisertvm_half_mono_black.png",
+          "size": "34KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/IISERTvm/iisertvm_half_mono_black.png"
         },
         {
           "variant": "Iisertvm Half Mono Grey",
           "filename": "iisertvm_half_mono_grey.png",
+          "size": "32KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/IISERTvm/iisertvm_half_mono_grey.png"
         },
         {
           "variant": "Iisertvm Half Mono White",
           "filename": "iisertvm_half_mono_white.png",
+          "size": "32KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/IISERTvm/iisertvm_half_mono_white.png"
         }
       ],
@@ -247,11 +285,13 @@
         {
           "variant": "Iisertvm",
           "filename": "iisertvm.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/IISERTvm/iisertvm.svg"
         },
         {
           "variant": "Iisertvm Half Mono",
           "filename": "iisertvm_half_mono.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/IISERTvm/iisertvm_half_mono.svg"
         }
       ]
@@ -265,6 +305,7 @@
         {
           "variant": "Parsec",
           "filename": "Parsec.png",
+          "size": "276KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Parsec/Parsec.png"
         }
       ],
@@ -272,6 +313,7 @@
         {
           "variant": "Parsec Logo Full WhiteBG",
           "filename": "Parsec_Logo_Full_WhiteBG.jpg",
+          "size": "287KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Parsec/Parsec_Logo_Full_WhiteBG.jpg"
         }
       ]
@@ -285,6 +327,7 @@
         {
           "variant": "Proteus Logo Black",
           "filename": "Proteus_Logo_black.png",
+          "size": "10KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Proteus/Proteus_Logo_black.png"
         }
       ]
@@ -298,21 +341,25 @@
         {
           "variant": "Logo",
           "filename": "logo.png",
+          "size": "46KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/logo.png"
         },
         {
           "variant": "Logo 2x",
           "filename": "logo_2x.png",
+          "size": "101KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/logo_2x.png"
         },
         {
           "variant": "Logo Transparent",
           "filename": "logo_transparent.png",
+          "size": "30KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/logo_transparent.png"
         },
         {
           "variant": "PSI(T) White Background Logo",
           "filename": "PSI(t) White background logo.png",
+          "size": "51KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/PSI(t)%20White%20background%20logo.png"
         }
       ],
@@ -320,21 +367,25 @@
         {
           "variant": "Full Psit Logo",
           "filename": "full_psit_logo.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/full_psit_logo.svg"
         },
         {
           "variant": "Half Psit Logo",
           "filename": "half_psit_logo.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/half_psit_logo.svg"
         },
         {
           "variant": "Long Psit Logo",
           "filename": "long_psit_logo.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/long_psit_logo.svg"
         },
         {
           "variant": "Text Psit Logo",
           "filename": "text_psit_logo.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/text_psit_logo.svg"
         }
       ],
@@ -342,6 +393,7 @@
         {
           "variant": "Logo",
           "filename": "logo.webp",
+          "size": "25KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/PSI(t)/logo.webp"
         }
       ]
@@ -355,21 +407,25 @@
         {
           "variant": "Original",
           "filename": "original.png",
+          "size": "55KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/original.png"
         },
         {
           "variant": "Original 3x",
           "filename": "original_3x.png",
+          "size": "208KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/original_3x.png"
         },
         {
           "variant": "Transparent",
           "filename": "transparent.png",
+          "size": "42KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/transparent.png"
         },
         {
           "variant": "Transparent 3x",
           "filename": "transparent_3x.png",
+          "size": "151KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/transparent_3x.png"
         }
       ],
@@ -377,11 +433,13 @@
         {
           "variant": "Original",
           "filename": "original.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/original.svg"
         },
         {
           "variant": "Transparent",
           "filename": "transparent.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/transparent.svg"
         }
       ],
@@ -389,11 +447,13 @@
         {
           "variant": "Original",
           "filename": "original.webp",
+          "size": "20KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/original.webp"
         },
         {
           "variant": "Transparent",
           "filename": "transparent.webp",
+          "size": "20KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/QSI/transparent.webp"
         }
       ]
@@ -407,31 +467,37 @@
         {
           "variant": "Round",
           "filename": "round.png",
+          "size": "61KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/round.png"
         },
         {
           "variant": "Round 2x",
           "filename": "round_2x.png",
+          "size": "135KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/round_2x.png"
         },
         {
           "variant": "Sq",
           "filename": "sq.png",
+          "size": "51KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq.png"
         },
         {
           "variant": "Sq 2x",
           "filename": "sq_2x.png",
+          "size": "112KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq_2x.png"
         },
         {
           "variant": "Sq Full",
           "filename": "sq_full.png",
+          "size": "58KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq_full.png"
         },
         {
           "variant": "Sq Full 2x",
           "filename": "sq_full_2x.png",
+          "size": "128KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq_full_2x.png"
         }
       ],
@@ -439,16 +505,19 @@
         {
           "variant": "Round",
           "filename": "round.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/round.svg"
         },
         {
           "variant": "Sq",
           "filename": "sq.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq.svg"
         },
         {
           "variant": "Sq Full",
           "filename": "sq_full.svg",
+          "size": null,
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq_full.svg"
         }
       ],
@@ -456,16 +525,19 @@
         {
           "variant": "Round",
           "filename": "round.webp",
+          "size": "23KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/round.webp"
         },
         {
           "variant": "Sq",
           "filename": "sq.webp",
+          "size": "18KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq.webp"
         },
         {
           "variant": "Sq Full",
           "filename": "sq_full.webp",
+          "size": "20KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq_full.webp"
         }
       ]
