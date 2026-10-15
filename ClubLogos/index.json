@@ -109,6 +109,110 @@
           "variant": "Exhibit A Nobg Black",
           "filename": "Exhibit_A_nobg_black.png",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/Exhibit_A_nobg_black.png"
+        },
+        {
+          "variant": "Round",
+          "filename": "round.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round.png"
+        },
+        {
+          "variant": "Round 2x",
+          "filename": "round_2x.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round_2x.png"
+        },
+        {
+          "variant": "Round Inverted",
+          "filename": "round_inverted.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round_inverted.png"
+        },
+        {
+          "variant": "Round Inverted 2x",
+          "filename": "round_inverted_2x.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round_inverted_2x.png"
+        },
+        {
+          "variant": "Square",
+          "filename": "square.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square.png"
+        },
+        {
+          "variant": "Square 2x",
+          "filename": "square_2x.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square_2x.png"
+        },
+        {
+          "variant": "Square Inverted",
+          "filename": "square_inverted.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square_inverted.png"
+        },
+        {
+          "variant": "Square Inverted 2x",
+          "filename": "square_inverted_2x.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square_inverted_2x.png"
+        },
+        {
+          "variant": "Squarecle",
+          "filename": "squarecle.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/squarecle.png"
+        },
+        {
+          "variant": "Squarecle 2x",
+          "filename": "squarecle_2x.png",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/squarecle_2x.png"
+        }
+      ],
+      "svg": [
+        {
+          "variant": "Round",
+          "filename": "round.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round.svg"
+        },
+        {
+          "variant": "Round Inverted",
+          "filename": "round_inverted.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round_inverted.svg"
+        },
+        {
+          "variant": "Square",
+          "filename": "square.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square.svg"
+        },
+        {
+          "variant": "Square Inverted",
+          "filename": "square_inverted.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square_inverted.svg"
+        },
+        {
+          "variant": "Squarecle",
+          "filename": "squarecle.svg",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/squarecle.svg"
+        }
+      ],
+      "webp": [
+        {
+          "variant": "Round",
+          "filename": "round.webp",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round.webp"
+        },
+        {
+          "variant": "Round Inverted",
+          "filename": "round_inverted.webp",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/round_inverted.webp"
+        },
+        {
+          "variant": "Square",
+          "filename": "square.webp",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square.webp"
+        },
+        {
+          "variant": "Square Inverted",
+          "filename": "square_inverted.webp",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/square_inverted.webp"
+        },
+        {
+          "variant": "Squarecle",
+          "filename": "squarecle.webp",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Exhibit%20A/squarecle.webp"
         }
       ]
     }
