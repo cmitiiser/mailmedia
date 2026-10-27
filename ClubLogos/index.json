@@ -100,56 +100,6 @@
     }
   },
   {
-    "id": "CuturalClubs",
-    "name": "CuturalClubs",
-    "formats": {
-      "png": [
-        {
-          "variant": "Cultural Council",
-          "filename": "cultural_council.png",
-          "size": "28KB",
-          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CuturalClubs/cultural_council.png"
-        },
-        {
-          "variant": "Dance Society",
-          "filename": "dance_society.png",
-          "size": "245KB",
-          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CuturalClubs/dance_society.png"
-        },
-        {
-          "variant": "Isla",
-          "filename": "isla.png",
-          "size": "134KB",
-          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CuturalClubs/isla.png"
-        },
-        {
-          "variant": "Mazhavil",
-          "filename": "mazhavil.png",
-          "size": "466KB",
-          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CuturalClubs/mazhavil.png"
-        },
-        {
-          "variant": "Mazhavil Transparent",
-          "filename": "mazhavil_transparent.png",
-          "size": "356KB",
-          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CuturalClubs/mazhavil_transparent.png"
-        },
-        {
-          "variant": "Media Society",
-          "filename": "media_society.png",
-          "size": "129KB",
-          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CuturalClubs/media_society.png"
-        },
-        {
-          "variant": "Music Club",
-          "filename": "music_club.png",
-          "size": "104KB",
-          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/CuturalClubs/music_club.png"
-        }
-      ]
-    }
-  },
-  {
     "id": "ESI",
     "name": "ESI",
     "formats": {
@@ -725,6 +675,56 @@
           "filename": "sq_full.webp",
           "size": "20KB",
           "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/SNT/sq_full.webp"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Student-Clubs",
+    "name": "Student Clubs",
+    "formats": {
+      "png": [
+        {
+          "variant": "Cultural Council",
+          "filename": "cultural_council.png",
+          "size": "28KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Student-Clubs/cultural_council.png"
+        },
+        {
+          "variant": "Dance Society",
+          "filename": "dance_society.png",
+          "size": "245KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Student-Clubs/dance_society.png"
+        },
+        {
+          "variant": "Isla",
+          "filename": "isla.png",
+          "size": "134KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Student-Clubs/isla.png"
+        },
+        {
+          "variant": "Mazhavil",
+          "filename": "mazhavil.png",
+          "size": "466KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Student-Clubs/mazhavil.png"
+        },
+        {
+          "variant": "Mazhavil Transparent",
+          "filename": "mazhavil_transparent.png",
+          "size": "356KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Student-Clubs/mazhavil_transparent.png"
+        },
+        {
+          "variant": "Media Society",
+          "filename": "media_society.png",
+          "size": "129KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Student-Clubs/media_society.png"
+        },
+        {
+          "variant": "Music Club",
+          "filename": "music_club.png",
+          "size": "104KB",
+          "url": "https://raw.githubusercontent.com/cmitiiser/mailmedia/main/ClubLogos/Student-Clubs/music_club.png"
         }
       ]
     }
